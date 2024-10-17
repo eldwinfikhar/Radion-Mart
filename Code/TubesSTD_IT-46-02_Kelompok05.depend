@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\user\onedrive\desktop\tubesstd_it-46-02_kelompok05\main.cpp
+	<iostream>
+
+1704284417 source:c:\users\user\onedrive\desktop\smt 3\struktur data\tugas\tubesstd_it-46-02_kelompok05\main.cpp
+	<iostream>
+	"shopping.h"
+
+1704149843 c:\users\user\onedrive\desktop\smt 3\struktur data\tugas\tubesstd_it-46-02_kelompok05\shopping.h
+	<iostream>
+
+1704160540 source:c:\users\user\onedrive\desktop\smt 3\struktur data\tugas\tubesstd_it-46-02_kelompok05\shopping.cpp
+	"shopping.h"
+
+1704104870 source:c:\users\afrya\downloads\tubesstd_it-46-02_kelompok05 (1)\tubesstd_it-46-02_kelompok05\shopping.cpp
+	"shopping.h"
+
+1704102881 c:\users\afrya\downloads\tubesstd_it-46-02_kelompok05 (1)\tubesstd_it-46-02_kelompok05\shopping.h
+	<iostream>
+
+1704104361 source:c:\users\afrya\downloads\tubesstd_it-46-02_kelompok05 (1)\tubesstd_it-46-02_kelompok05\main.cpp
+	<iostream>
+	"shopping.h"
+
+1704284417 source:d:\semester 3\struktur data\tugas\tubesstd_it-46-02_kelompok05\main.cpp
+	<iostream>
+	"shopping.h"
+
+1704149843 d:\semester 3\struktur data\tugas\tubesstd_it-46-02_kelompok05\shopping.h
+	<iostream>
+
+1704284741 source:d:\semester 3\struktur data\tugas\tubesstd_it-46-02_kelompok05\shopping.cpp
+	"shopping.h"
+
+1704284417 source:d:\semester 3\struktur data\tugas\radion mart\main.cpp
+	<iostream>
+	"shopping.h"
+
+1704149843 d:\semester 3\struktur data\tugas\radion mart\shopping.h
+	<iostream>
+
+1704284741 source:d:\semester 3\struktur data\tugas\radion mart\shopping.cpp
+	"shopping.h"
+
+1704284417 source:d:\semester 3\struktur data\tugas\radion mart\code\main.cpp
+	<iostream>
+	"shopping.h"
+
+1704149843 d:\semester 3\struktur data\tugas\radion mart\code\shopping.h
+	<iostream>
+
+1704284741 source:d:\semester 3\struktur data\tugas\radion mart\code\shopping.cpp
+	"shopping.h"
+
